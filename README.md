@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ajimalone
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Java, Python, and SQL.
-- 📫 How to reach me: 
+- 🌱 I’m currently learning Java, Python, and mySQL.
+- 📫 How to reach me: https://www.facebook.com/ajimalone
 - ⚡ Fun fact: i love sharks!!
 
 <!---
